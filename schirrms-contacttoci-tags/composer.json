@@ -1,0 +1,16 @@
+{
+  "config": {
+    "classmap-authoritative": true
+  },
+  "autoload": {
+    "psr-4": {
+      "schirrms\\iTop\\Extension\\": "src"
+    }
+  },
+  "name": "schirrms/schirrms-contacttoci-tags",
+  "type": "itop-extension",
+  "description": "Add tags to contacts to CI links to categorize the link",
+  "require": {
+    "composer-runtime-api": "^2.0"
+  }
+}
