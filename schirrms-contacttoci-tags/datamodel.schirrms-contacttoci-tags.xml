@@ -39,6 +39,19 @@
             </item>
           </items>
         </list>
+        <default_search _delta="define">
+          <items>
+            <item id="functionalci_id" _delta="define">
+              <rank>10</rank>
+            </item>
+            <item id="contact_id" _delta="define">
+              <rank>20</rank>
+            </item>
+            <item id="relationship" _delta="define">
+              <rank>30</rank>
+            </item>
+          </items>
+        </default_search>
       </presentation>
     </class>
   </classes>
