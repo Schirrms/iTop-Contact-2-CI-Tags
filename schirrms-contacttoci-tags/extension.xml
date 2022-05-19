@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension format="1.0">
   <extension_code>schirrms-contacttoci-tags</extension_code>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <label><![CDATA[Add tags to contacts to CI links to categorize the link]]></label>
   <description><![CDATA[While many contacts can have a link with a CI, that link can be different for each contact. One contact can be a 'consumer' of the CI, while another can be the 'Administrator' of the CI]]></description>
   <mandatory>false</mandatory>
