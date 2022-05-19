@@ -8,6 +8,7 @@
 
 Dict::Add('EN US', 'English', 'English', array(
 	// Dictionary entries go here
+	'Class:lnkContactToFunctionalCI/Name' => '%1$s <=> %2$s',
 	'Class:lnkContactToFunctionalCI/Attribute:relationship' => 'Relationship between contact and CI',
 ));
 ?>

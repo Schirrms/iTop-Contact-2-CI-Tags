@@ -8,6 +8,7 @@
 
 Dict::Add('FR FR', 'French', 'French', array(
 	// Dictionary entries go here
+	'Class:lnkContactToFunctionalCI/Name' => '%1$s <=> %2$s',
 	'Class:lnkContactToFunctionalCI/Attribute:relationship' => 'Relation entre le contact et le CI',
 ));
 ?>
