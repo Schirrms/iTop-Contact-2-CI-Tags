@@ -4,6 +4,10 @@
   </constants>
   <classes>
     <class id="lnkContactToFunctionalCI" _delta="must_exist">
+      <!-- As a workaround to be able to edit the tags in a link class, thanks Vincent -->
+      <properties>
+        <is_link _delta="redefine">0</is_link>
+      </properties>
       <fields>
         <field id="relationship" xsi:type="AttributeTagSet" _delta="define">
           <sql>relationship</sql>
